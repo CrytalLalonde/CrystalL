@@ -1,0 +1,64 @@
+body{
+	background-image:url(images/pixel-heart.png);
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+	background-image: url:(pixel-heart.pmg)
+}
+
+h1{
+background-color:red;
+color:#555;
+font-family: "Sofia", Helvetica, sans-serif;
+font-size:37px;
+line-height:1.6em;
+margin:0.0;
+}
+
+p
+{background-color:purple;
+color: black;
+font-family:Arial;
+font-size:17px;
+line-height:1.6em;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+border:10px solid black;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+font-weight: normal;
+font-style: normal;
+text-align: center;
+}
+
+
+
+a{
+	color: black;
+	text-decoration: none;
+
+}
+
+a:hover{
+	text-decoration: underline;
+	color: white;
+}
+
+
+
+.h1red{
+	color:red;
+}
+.h1blue{
+	color:blue;
+}
+.h1green{
+	color:green;
+}
